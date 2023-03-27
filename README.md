@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkyZDgzYTI1OGVmNmM0MGI1YjMxNzQ5NGYzZWI4YzgzYWQ3ZDgxMyZjdD1z/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/></p>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkyZDgzYTI1OGVmNmM0MGI1YjMxNzQ5NGYzZWI4YzgzYWQ3ZDgxMyZjdD1z/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200"/></p>
 
 
 <!--
