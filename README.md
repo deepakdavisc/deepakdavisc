@@ -1,6 +1,9 @@
 ### Hi there 👋
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkyZDgzYTI1OGVmNmM0MGI1YjMxNzQ5NGYzZWI4YzgzYWQ3ZDgxMyZjdD1z/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200"/></p>
 
+<p align="center">
+  <a href="mailto:deepakdavisc@gmail.com">Mail</a> | <a href="https://www.deepakdavisc.com">Website</a> | <a href="https://www.linkedin.com/in/deepak-davis-35176a45/">LinkedIn</a>
+</p>
 
 <!--
 **deepakdavisc/deepakdavisc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
